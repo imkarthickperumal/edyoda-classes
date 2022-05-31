@@ -1,0 +1,11 @@
+.full-height{
+    height: 100vh;
+    border: 1px solid black;
+}
+.parallax{
+    border: 1px solid blue;
+    margin: 50px 0px;
+    height: 800px;
+    background: url('https://nuuk-e3eaa.firebaseapp.com/assets/img/slide-2.jpg');
+    /* background-attachment: fixed; */
+}

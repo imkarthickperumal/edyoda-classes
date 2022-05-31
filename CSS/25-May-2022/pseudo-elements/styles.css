@@ -1,0 +1,19 @@
+.para-1::first-line{
+    color: rgb(255, 0, 140);
+}
+.para-2::first-letter{
+    color: chartreuse;
+    font-size: 20px;
+}
+
+.para-3::selection{
+    color: rgb(0, 255, 42);
+    background-color: blue;
+}
+
+.para-4::after{
+    content: "ABCD";
+}
+.para-5::before{
+    content: "Hello EdYoda Partner";
+}
