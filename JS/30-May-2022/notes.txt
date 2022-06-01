@@ -1,0 +1,67 @@
+JavaScript?
+
+FrontEnd => Any page/design/functionality with runs on user's browser. (client)
+BackEnd  => Any functionality written is any language which runs on server. (Server)
+
+JavaScript is a scripting langugage which works on both FrontEnd as well as on BackEnd
+
+FrontEnd Libraries/Frameworks : React JS(Libraries), Angular Js(Framework), Vue JS, etc...
+BackEnd JS : Node js with Express JS, Meteor JS, Backbon JS
+
+JavaScript is not complier 
+JavaScript is runs directly on the browser so no need complier 
+JavaScript Interpreter
+
+
+Libraries => Set of pre defined class and functionalies.(Limited set of functionalies)
+Framework => Set of pre defined class and functionalies.(Rich / Extensive of functionalies)
+
+
+Variable ?
+Variables in a identifiers its holding some values
+Maths : x,y
+
+Naming of variable :
+     Ways :
+          1. Camel Case : productPrice, userName, firstName // using JavaScript, Java, Python 
+          2. Pascal Case : ProductPrice, UserName, FirstName // using .net, (C#)
+          3. Snake Case : product_price, user_name, first_name // Mysql
+     Rules :
+          1. Can't give space in a variable name
+          2. Variable name can contain alphabets, number, _  and $
+          3. Variable name can't start with a number
+          4. Reserved word/keyword are not allowed in naming a variable. 
+          5. Variable names are case senstive
+     NOTE : ALWAYS GIVE A MEANINGFUL NAMES TO VARIABLE
+
+operator => A symbol which operator 2 (or more) diffrent variables or a variable and  a values
+=> Assignment operator
+     1. Arithmetic operator : +,-,*,/
+     2. Logical operator : &&(And), || (OR), !(Not)
+     3. Comparision operator: < (less than), > (greater than), <= (less than or equal to),
+        >= (greater than or equal to)
+
+
+
+
+2. Type of code writers:
+  1. code Editor : Notepad, Notepad++, VS Code, Sublime Text editor etc...
+  2. IDE(Integrated Development Environemnt) : NetBeans, Inteliji,Ecelipseetc...
+
+
+Alert : A way to get user's attention on the browser 
+Confirm : Give a option between yes/no to the user
+Prompt : To take any input from the user
+
+
+Data Types :
+    1. Primitive Data Types :
+        a. numbers : integers, floating point numbers
+        NaN: not and number, Infinity
+        b. string  : Any text (single quote, double quote)
+        c. boolean : true or false
+        d. null    : Special value when we assign empty value of a variable
+        e. undefined : When we don't give any value of variable
+    2. Reference(Non-Primitive) Data Types:
+        a. Object
+        b. Array
