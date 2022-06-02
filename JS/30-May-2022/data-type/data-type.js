@@ -24,3 +24,10 @@ console.log(typeof(sum));
 
 var divisionResult = num1 / 0;
 console.log(typeof(divisionResult));
+
+
+var num3 = 10;
+var num4 = 5;
+
+var modules = num3%num4;
+console.log(modules);
