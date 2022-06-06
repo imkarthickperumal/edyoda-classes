@@ -1,0 +1,4 @@
+Switch case => It is similar to if else conditional statement
+
+Objects => A Collection of key value paris, that consists data in it, and an object represents a set data about a particular entity.
+
