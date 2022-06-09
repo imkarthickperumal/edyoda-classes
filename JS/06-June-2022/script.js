@@ -81,5 +81,5 @@ expression = !false == !false;
 expression = true == true;
 // Step 4
 expression = true;
-console.log(expression);
+console.log(expression); 
 

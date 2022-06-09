@@ -1,0 +1,31 @@
+Arrays?
+Arrays is a List.
+[]
+
+Array Methods:
+
+Push : to add a new items Array
+
+pop : to remove the item from the end of the array
+unshift : to add a new element at the beginig of the Array
+
+shift : to delete the element from the beginig of the array
+
+splice :
+    1. Replace any item in array
+    2. Delete any items(s) at any position in array
+    3. Any item(s) at any position in array
+
+concat : to merge 2 arrays
+
+toString : to convert an array into string
+
+reverse : to reverse an array (reversing the sequence)
+
+sort : to sort the array in a particular manner
+
+
+Ways to add new items in an Array
+     1. Add item by index e.g users[0] = 'John;
+     2. Using push method e.g users.push('John)
+     3. Using spread operator(...)
