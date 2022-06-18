@@ -1,0 +1,43 @@
+DOM = > Document Object Model
+                  HTML
+        head              body
+ meta script title      h1 p div div
+
+
+HTML Tags/Nodes/HTML Element 
+
+Selectors 3(CSS);
+ID => #
+Class => .
+Tag -> Tag Name
+
+#head{
+    color:blue;
+}
+.description{
+    color:red
+}
+div{
+    color:green
+}
+
+Methods in DOM to fetch/search/find an Node in HTML Page:
+
+getElementByID => Used to find element with the help of ID.
+getElementByClassName() => Used to find element with the help of Class name.
+getElementByTagName => Used to find element with the help of TagName.
+
+querySelector => querySelector use pana 3selecors oda symbol ah munadi pottu like(#idname,.classname,tagneme)
+                 use pananum ethu model way replacing 
+                 getElementByID,getElementByTagName,getElementByClassName
+    ex.document.getElementsByClassName('.description'); => ClassName()
+    ex.document.getElementsByClassName('#description'); => IDName()
+    ex.document.getElementsByClassName('div');          => TagName()
+
+.sample span {
+    color: blue;
+}
+
+.sample > span {
+    color: blue;
+}
