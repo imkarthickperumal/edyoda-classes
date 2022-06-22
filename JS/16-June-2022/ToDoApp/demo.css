@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.todo-container{
+    /* width: 300px; */
+    display: inline-block;
+    margin: 0 auto;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
