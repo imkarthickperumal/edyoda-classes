@@ -1,0 +1,20 @@
+BOM (Browser Object Model), its acts as a super set of DOM(Document object model)
+
+DOM represents our HTML page in the form of a tree. (document).
+
+BOM represents browser object.(window)
+
+BOM
+    - document(DOM)
+    - screen - width,height,availwidth,availheight
+    - navigator - device controls, geolocation,clipboard, etc...
+    - location - 
+    - history
+    - localStorage
+
+negative infinity to positive infinity(Numerical Superset)
+
+Whole numbers(Subset)
+Natural numbers(Subset)
+Positive numbers(Subset)
+Negative numbers(Subset)
