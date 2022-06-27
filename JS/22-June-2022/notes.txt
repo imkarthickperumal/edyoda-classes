@@ -8,8 +8,8 @@ BOM
     - document(DOM)
     - screen - width,height,availwidth,availheight
     - navigator - device controls, geolocation,clipboard, etc...
-    - location - 
-    - history
+    - location - current location, base url/orgin url, protocool info
+    - history - 
     - localStorage
 
 negative infinity to positive infinity(Numerical Superset)
