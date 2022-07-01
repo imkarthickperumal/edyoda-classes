@@ -1,0 +1,19 @@
+jQuery => jQuery is a JavaScript library
+How to use jQuery ?
+Include its CDN URL (https://code.jquery.com/jquery-3.6.0.min.js) in script tag in our HTML file.
+
+library is a collection of obejct
+
+Uses of library :
+1. Manipulation DOM
+2. Manipulation CSS
+3. AJAX
+
+jQuery can be accessed using in "$" symbol.
+
+JavaScript/ Plain JavaScript/ Vanilla JavaScript
+
+1. selector in jQuery : $(<SELECTOR>):
+2. css method : $(<SELECTOR>).css(<PROPERTY-NAME>,<PROPERTY-VALUE>); --OR-- $(<SELECTOR>).css(<OBJECT-OF-CSS>);
+3. first(), last(), eq()
+ text(), val(), on()
