@@ -1,0 +1,12 @@
+3 ways to decalre variable :
+
+
+var => From v1 till now
+
+ES6(2016)
+let
+const
+
+Prototype : It is an object where all the methods of an object/type of objects is stored.
+Prototype changed => when you call a method, JS searches this method in current Prototype, if its not avaliable it goes
+                     future to check the method and so on...
