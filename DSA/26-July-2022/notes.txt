@@ -1,0 +1,33 @@
+DSA => Data Structures and Algorithm
+     (Allign Datas)
+
+Example : Data Structures
+
+const userNames = "John"
+const userNames = "Jane" ===> here is two variable define it's simple thing okey
+                              But more than variable declare how to this thing DSA 
+                              organise a Datas
+const userNames = ['John','Jane'] ===> organise a data using (Array).
+
+
+Algorithm => Step by step procedure to solve problem.
+
+Example : Algorithm
+
+function sum(num1,num2){
+    const result = num1+num2;
+    return result;
+}
+
+step1 : create a function with name sum
+step2 : Take 2 arguments num1 and num2
+step3 : Add them using + operator
+step4 : Store the result in a variable "result"
+step5 : Return the value of total variable.
+
+Stack ? => A collection of items kept on top of each other.
+
+last item to be kept in stack is first one to come out of the stack
+(LIFO - Last in first out)
+
+
