@@ -1,0 +1,21 @@
+Sub-Topics
+
+Intro to ES6
+Creating Variables - let and const
+Arrow Functions
+Spread Operator
+Rest Operator
+Destructuring
+Reference and Primitive Types
+Templates strings
+Session Details
+
+1. You should know what ES6 is and what it brings into the picture.
+
+2. You should be able to work with Let and Const and be aware of what they differ from the Var keyword.
+
+3. You should be able to play around with strings using Template strings.
+
+4. You should know how to work with arrow functions.
+
+5. You should know the Rest and Spread operators.
